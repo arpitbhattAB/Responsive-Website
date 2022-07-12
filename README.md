@@ -14,7 +14,7 @@
 <img src=Pricing.png height="500px"/>
 <br/><br/>
 
-<img src=Contact us.png height="500px"/>
+<img src=Contact us .png height="500px"/>
 <br/><br/>
 
 <img src=Statistics.png height="500px"/>
