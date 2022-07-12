@@ -1,5 +1,5 @@
 # Responsive-Website
-<img src=Website-images/Brief.png height="500px"/>
+<img src=Brief.png height="500px"/>
 <br/><br/>
 
 <img src=Website-images/Clients.png height="500px"/>
