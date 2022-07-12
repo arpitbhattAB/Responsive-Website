@@ -20,5 +20,5 @@
 <img src=Statistics.png height="500px"/>
 <br/><br/>
  
- <img src=Subscriber.png height="500px"/>
+ <img src=Subscribe.png height="500px"/>
 <br/><br/>
